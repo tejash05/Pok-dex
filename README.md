@@ -8,14 +8,17 @@ Features
     Responsive Design: Fully optimized for both desktop and mobile devices.
     Dynamic Rendering: Fetch data from the PokéAPI to keep the app lightweight and up-to-date.
 
-Screenshots
+Sample
 1. Home Page
    
 <img width="1440" alt="Screenshot 2024-12-02 at 8 25 11 PM" src="https://github.com/user-attachments/assets/85561c58-c87a-41d0-a505-662508bc58be">
 
 
 The landing page where users can browse Pokémon.
+
 2. Pokémon Details
+
+
 <img width="1437" alt="Screenshot 2024-12-02 at 9 29 48 PM" src="https://github.com/user-attachments/assets/1a9847c5-2053-419c-82b5-03ae3efa0162">
 
 
