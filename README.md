@@ -21,6 +21,8 @@ The landing page where users can browse Pokémon.
 
 Detailed view of a Pokémon, including its stats, abilities, and type.
 3. Mobile View
+
+
 <img width="319" alt="Screenshot 2024-12-02 at 10 35 36 PM" src="https://github.com/user-attachments/assets/a3074b54-3dd9-489f-91f7-bba98b213e6f">
 
 
